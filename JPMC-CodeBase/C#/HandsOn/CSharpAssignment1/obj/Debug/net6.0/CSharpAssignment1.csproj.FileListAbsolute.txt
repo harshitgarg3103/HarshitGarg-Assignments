@@ -1,0 +1,15 @@
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\CSharpAssignment1\obj\Debug\net6.0\CSharpAssignment1.csproj.AssemblyReference.cache
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\CSharpAssignment1\obj\Debug\net6.0\CSharpAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\CSharpAssignment1\obj\Debug\net6.0\CSharpAssignment1.AssemblyInfoInputs.cache
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\CSharpAssignment1\obj\Debug\net6.0\CSharpAssignment1.AssemblyInfo.cs
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\CSharpAssignment1\obj\Debug\net6.0\CSharpAssignment1.csproj.CoreCompileInputs.cache
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\CSharpAssignment1\bin\Debug\net6.0\CSharpAssignment1.exe
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\CSharpAssignment1\bin\Debug\net6.0\CSharpAssignment1.deps.json
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\CSharpAssignment1\bin\Debug\net6.0\CSharpAssignment1.runtimeconfig.json
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\CSharpAssignment1\bin\Debug\net6.0\CSharpAssignment1.dll
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\CSharpAssignment1\bin\Debug\net6.0\CSharpAssignment1.pdb
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\CSharpAssignment1\obj\Debug\net6.0\CSharpAssignment1.dll
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\CSharpAssignment1\obj\Debug\net6.0\refint\CSharpAssignment1.dll
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\CSharpAssignment1\obj\Debug\net6.0\CSharpAssignment1.pdb
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\CSharpAssignment1\obj\Debug\net6.0\CSharpAssignment1.genruntimeconfig.cache
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\CSharpAssignment1\obj\Debug\net6.0\ref\CSharpAssignment1.dll
