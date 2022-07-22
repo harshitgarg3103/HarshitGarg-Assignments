@@ -1,0 +1,15 @@
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InheritanceAssignment\bin\Debug\net6.0\InheritanceAssignment.exe
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InheritanceAssignment\bin\Debug\net6.0\InheritanceAssignment.deps.json
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InheritanceAssignment\bin\Debug\net6.0\InheritanceAssignment.runtimeconfig.json
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InheritanceAssignment\bin\Debug\net6.0\InheritanceAssignment.dll
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InheritanceAssignment\bin\Debug\net6.0\InheritanceAssignment.pdb
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InheritanceAssignment\obj\Debug\net6.0\InheritanceAssignment.csproj.AssemblyReference.cache
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InheritanceAssignment\obj\Debug\net6.0\InheritanceAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InheritanceAssignment\obj\Debug\net6.0\InheritanceAssignment.AssemblyInfoInputs.cache
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InheritanceAssignment\obj\Debug\net6.0\InheritanceAssignment.AssemblyInfo.cs
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InheritanceAssignment\obj\Debug\net6.0\InheritanceAssignment.csproj.CoreCompileInputs.cache
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InheritanceAssignment\obj\Debug\net6.0\InheritanceAssignment.dll
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InheritanceAssignment\obj\Debug\net6.0\refint\InheritanceAssignment.dll
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InheritanceAssignment\obj\Debug\net6.0\InheritanceAssignment.pdb
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InheritanceAssignment\obj\Debug\net6.0\InheritanceAssignment.genruntimeconfig.cache
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InheritanceAssignment\obj\Debug\net6.0\ref\InheritanceAssignment.dll
