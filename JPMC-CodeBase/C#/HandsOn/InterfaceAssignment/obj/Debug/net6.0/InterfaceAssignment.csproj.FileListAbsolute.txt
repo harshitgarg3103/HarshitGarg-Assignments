@@ -1,0 +1,15 @@
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InterfaceAssignment\bin\Debug\net6.0\InterfaceAssignment.exe
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InterfaceAssignment\bin\Debug\net6.0\InterfaceAssignment.deps.json
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InterfaceAssignment\bin\Debug\net6.0\InterfaceAssignment.runtimeconfig.json
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InterfaceAssignment\bin\Debug\net6.0\InterfaceAssignment.dll
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InterfaceAssignment\bin\Debug\net6.0\InterfaceAssignment.pdb
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.csproj.AssemblyReference.cache
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.AssemblyInfoInputs.cache
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.AssemblyInfo.cs
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.csproj.CoreCompileInputs.cache
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.dll
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InterfaceAssignment\obj\Debug\net6.0\refint\InterfaceAssignment.dll
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.pdb
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InterfaceAssignment\obj\Debug\net6.0\InterfaceAssignment.genruntimeconfig.cache
+C:\JPMC\JPMC-CodeBase\C#\HandsOn\InterfaceAssignment\obj\Debug\net6.0\ref\InterfaceAssignment.dll
