@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\JENKINSPIPELINE\JenkinsPipeline\AssignmentLinQ\bin\Debug\net6.0\AssignmentLinQ.exe
+C:\Users\Administrator\Desktop\JENKINSPIPELINE\JenkinsPipeline\AssignmentLinQ\bin\Debug\net6.0\AssignmentLinQ.deps.json
+C:\Users\Administrator\Desktop\JENKINSPIPELINE\JenkinsPipeline\AssignmentLinQ\bin\Debug\net6.0\AssignmentLinQ.runtimeconfig.json
+C:\Users\Administrator\Desktop\JENKINSPIPELINE\JenkinsPipeline\AssignmentLinQ\bin\Debug\net6.0\AssignmentLinQ.dll
+C:\Users\Administrator\Desktop\JENKINSPIPELINE\JenkinsPipeline\AssignmentLinQ\bin\Debug\net6.0\AssignmentLinQ.pdb
+C:\Users\Administrator\Desktop\JENKINSPIPELINE\JenkinsPipeline\AssignmentLinQ\obj\Debug\net6.0\AssignmentLinQ.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\JENKINSPIPELINE\JenkinsPipeline\AssignmentLinQ\obj\Debug\net6.0\AssignmentLinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\JENKINSPIPELINE\JenkinsPipeline\AssignmentLinQ\obj\Debug\net6.0\AssignmentLinQ.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\JENKINSPIPELINE\JenkinsPipeline\AssignmentLinQ\obj\Debug\net6.0\AssignmentLinQ.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\JENKINSPIPELINE\JenkinsPipeline\AssignmentLinQ\obj\Debug\net6.0\AssignmentLinQ.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\JENKINSPIPELINE\JenkinsPipeline\AssignmentLinQ\obj\Debug\net6.0\AssignmentLinQ.dll
+C:\Users\Administrator\Desktop\JENKINSPIPELINE\JenkinsPipeline\AssignmentLinQ\obj\Debug\net6.0\refint\AssignmentLinQ.dll
+C:\Users\Administrator\Desktop\JENKINSPIPELINE\JenkinsPipeline\AssignmentLinQ\obj\Debug\net6.0\AssignmentLinQ.pdb
+C:\Users\Administrator\Desktop\JENKINSPIPELINE\JenkinsPipeline\AssignmentLinQ\obj\Debug\net6.0\AssignmentLinQ.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\JENKINSPIPELINE\JenkinsPipeline\AssignmentLinQ\obj\Debug\net6.0\ref\AssignmentLinQ.dll
